@@ -14,7 +14,7 @@ router.post('/insert', (req, res)=> {
   })
   
   router.get('/getbyid/:id', (req, res)=> {
-    laptopController.showbyID(req.params.id)
+    laptopController.showDataById(req.params.id)
         .then(result =>res.json(result))
         .catch(err => res.json(err))
   })

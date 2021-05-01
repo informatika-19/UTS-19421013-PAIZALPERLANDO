@@ -1,5 +1,5 @@
 {
-  "name": "UTS",
+  "name": "uts",
   "version": "1.0.0",
   "description": "UTS",
   "main": "index.js",
@@ -13,5 +13,15 @@
     "express": "^4.17.1",
     "mongoose": "^5.12.5",
     "nodemon": "^2.0.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/informatika-19/UTS-19421013-PAIZALPERLANDO.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/informatika-19/UTS-19421013-PAIZALPERLANDO/issues"
+  },
+  "homepage": "https://github.com/informatika-19/UTS-19421013-PAIZALPERLANDO#readme"
 }
